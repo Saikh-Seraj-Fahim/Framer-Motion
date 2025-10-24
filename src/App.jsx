@@ -4,6 +4,7 @@ import Simple from "./components/Simple";
 import TextMotion from "./components/TextMotion";
 import TransitionType from "./components/TransitionType";
 import Variants from "./components/Variants";
+import Counter from "./components/Counter";
 
 export default function App() {
     return (
@@ -12,8 +13,9 @@ export default function App() {
         // <ButtonTap />
         // <TextMotion/>
         // <TransitionType />
-        <Variants />
+        // <Variants />
+        <Counter />
     );
 }
 
-// 1 hour 4 minute.
+// 1 hour 12 minute.

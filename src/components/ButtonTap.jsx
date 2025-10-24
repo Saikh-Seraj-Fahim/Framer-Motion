@@ -9,7 +9,7 @@ export default function ButtonTap() {
                 whileHover={{
                     scale: 1.4
                 }}>
-                Tap Me
+                Tap Me 1
             </motion.button>
 
             <motion.button
@@ -19,7 +19,7 @@ export default function ButtonTap() {
                     scale: 1.4,
                     transition: { yoyo: Infinity } // yoyo transition for smoothness
                 }}>
-                Tap Me
+                Tap Me 2
             </motion.button>
         </div>
     );
