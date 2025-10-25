@@ -1,4 +1,4 @@
-// It is main.
+// This is main animation.
 
 import { motion } from "framer-motion";
 
